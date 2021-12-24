@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LosTTinngz
+- 👀 I’m interested in Games, Music and Programming
+- 🌱 I’m currently learning Java and JavaScript
+- 💞️ I’m looking to collaborate on Crafty BOT(Translator: Portuguese)
+- 📫 How to reach me.....
