@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LosTTinngz
+- 👋 Hi, I’m @Yangola_
 - 👀 I’m interested in Games, Music and Programming
 - 🌱 I’m currently learning Java and JavaScript
 - 💞️ I’m looking to collaborate on Crafty BOT(Translator: Portuguese)
