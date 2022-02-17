@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yangola_
+- 👋 Hi, I’m @Lucas(Yangola_)
 - 👀 I’m interested in Games, Music and Programming
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently finishing high school
 - 💞️ I’m looking to collaborate on Crafty BOT(Translator: Portuguese)
-- 📫 How to reach me.....
+- 📫 How to reach me....
