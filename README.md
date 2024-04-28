@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lucas(Yangola)
+- 👋 Hi, I’m @Lucas(yngs_)
 - 👀 I’m interested in Games, Music and Programming
 - 🌱 I’m currently serving the armed forces
 - 💞️ I’m looking to collaborate on Crafty BOT(Translator: Portuguese)
