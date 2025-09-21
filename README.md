@@ -71,5 +71,7 @@ Para usar suas próprias imagens do GitHub Snake:
    ```
 
 <div align="center">
-  <sub>🚀 Powered by <strong>Yangola System</strong> - Dark Hacker Edition</sub>
+<sub>🚀 Powered by <strong>Yangola System</strong> - Dark Hacker Edition</sub>
 </div>
+
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF41&center=true&vCenter=true&width=600&lines=Hacking+the+Matrix...;Access+Granted!;Yangola+System+Online+⚡" /> </p>
