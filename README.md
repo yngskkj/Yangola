@@ -61,7 +61,7 @@ root@yangola:~$ ./run.sh
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yngskkj&theme=chartreuse-dark&hide_border=true" /> </p>
 
-<p align="center"> <img src="https://github.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg" /> </p>
-<p align="center"> <img src="https://github.com/yngskkj/yngskkj/output/github-contribution-grid-snake-dark.svg" /> </p>
+<p align="center"> <img src="https://github.com/yngskkj/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://github.com/yngskkj/output/github-contribution-grid-snake-dark.svg" /> </p>
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF41&center=true&vCenter=true&width=600&lines=Hacking+the+Matrix...;Access+Granted!;Yangola+System+Online+⚡" /> </p>
