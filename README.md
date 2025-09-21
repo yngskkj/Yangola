@@ -53,7 +53,34 @@ root@yangola:~$ ./run.sh
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yngskkj&theme=chartreuse-dark&hide_border=true" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake-dark.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" /> </p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00FF41&center=true&vCenter=true&width=600&lines=Hacking+the+Matrix...;Access+Granted!;Yangola+System+Online+⚡" /> </p>
+## 📝 Como Personalizar
+
+Para usar suas próprias imagens do GitHub Snake:
+
+1. **Configure o GitHub Snake** no seu perfil
+2. **Substitua os links** acima pelo seu usuário:
+   ```markdown
+   https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+   ```
+3. **Para a versão dark**, adicione o parâmetro:
+   ```markdown
+   ?palette=github-dark
+   ```
+
+## 🎯 Próximos Passos
+
+- [ ] Configurar GitHub Snake no seu perfil
+- [ ] Gerar imagens personalizadas
+- [ ] Substituir links pelas suas imagens
+- [ ] Testar todos os links externos
+
+---
+
+<div align="center">
+  <sub>🚀 Powered by <strong>Yangola System</strong> - Dark Hacker Edition</sub>
+</div>
+
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?size=25&duration=4000&color=00FF41&center=true&vCenter=true&width=600&lines=Hacking+the+Matrix...;Access+Granted!;Yangola+System+Online+⚡" /> </p>
