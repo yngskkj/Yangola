@@ -70,15 +70,6 @@ Para usar suas próprias imagens do GitHub Snake:
    ?palette=github-dark
    ```
 
-## 🎯 Próximos Passos
-
-- [ ] Configurar GitHub Snake no seu perfil
-- [ ] Gerar imagens personalizadas
-- [ ] Substituir links pelas suas imagens
-- [ ] Testar todos os links externos
-
----
-
 <div align="center">
   <sub>🚀 Powered by <strong>Yangola System</strong> - Dark Hacker Edition</sub>
 </div>
