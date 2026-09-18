@@ -1,8 +1,5 @@
-<h1 align="center">🌙 Yangola — Dark Hacker Edition</h1>
+<h1 align="center">yngs_</h1>
 
-<p align="center">
-  <i>Projeto secreto... carregando exploits... modo neon ativado.</i>
-</p>
 
 ```bash
 root@yangola:~$ git clone [https://github.com/yngskkj/Yangola.git](https://github.com/yngskkj/Yangola.git)
