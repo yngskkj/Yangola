@@ -26,14 +26,6 @@ Olá! Seja bem-vindo ao meu perfil do GitHub. Sou apaixonado por programação, 
 
 ## 📊 Estatísticas no GitHub
 
-<h1 align="center">yngs_</h1>
-
-<p align="center">
-  <i>💻 Desenvolvedor & Administrador de Comunidades</i>
-</p>
-
-## 📊 Estatísticas no GitHub
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/dist/github-contribution-grid-snake.svg" />
 </p>
