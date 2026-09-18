@@ -27,12 +27,11 @@ Olá! Seja bem-vindo ao meu perfil do GitHub. Sou apaixonado por programação, 
 ## 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/dist/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
 
 <div align="center">
