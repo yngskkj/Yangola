@@ -26,20 +26,18 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: "yngskkj"
-          output_file: "dist/github-contribution-grid-snake.svg"
-          # se quiser parâmetros extras, consulte a action Platane/snk
+          output_file: "github-contribution-grid-snake.svg"
 
       - name: Generate dark snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: "yngskkj"
-          output_file: "dist/github-contribution-grid-snake-dark.svg"
+          output_file: "github-contribution-grid-snake-dark.svg"
           palette: "github-dark"
 
       - name: Commit and push to output branch
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "chore: update snake contribution grid"
-          file_pattern: "dist/**"
+          file_pattern: "*.svg"
           branch: output
-          # usa o GITHUB_TOKEN interno para push
