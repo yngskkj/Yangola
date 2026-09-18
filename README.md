@@ -26,15 +26,24 @@ Olá! Seja bem-vindo ao meu perfil do GitHub. Sou apaixonado por programação, 
 
 ## 📊 Estatísticas no GitHub
 
+<h1 align="center">yngs_</h1>
+
+<p align="center">
+  <i>💻 Desenvolvedor & Administrador de Comunidades</i>
+</p>
+
+## 📊 Estatísticas no GitHub
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yngskkj&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
