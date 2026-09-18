@@ -1,6 +1,11 @@
-<h1 align="center">🌙 Yangola — Dark Hacker Edition</h1> <p align="center"> <i>💻 Projeto secreto... carregando exploits... modo neon ativado.</i> </p>
+<h1 align="center">🌙 Yangola — Dark Hacker Edition</h1>
 
-root@yangola:~$ git clone https://github.com/yngskkj/Yangola.git
+<p align="center">
+  <i>Projeto secreto... carregando exploits... modo neon ativado.</i>
+</p>
+
+```bash
+root@yangola:~$ git clone [https://github.com/yngskkj/Yangola.git](https://github.com/yngskkj/Yangola.git)
 root@yangola:~$ cd Yangola
 root@yangola:~$ ./run.sh
 [✔] Yangola iniciado com sucesso...
@@ -24,11 +29,11 @@ root@yangola:~$ ./run.sh
 
 ### 🔍 Últimos Logs do Sistema
 ```
-[2024-01-15 14:30:22] [INFO] Exploit bem-sucedido em target_001
-[2024-01-15 14:28:15] [WARN] Firewall detectado - contornando...
-[2024-01-15 14:25:08] [INFO] Conexão estabelecida com servidor remoto
-[2024-01-15 14:23:45] [SUCCESS] Payload injetado com sucesso
-[2024-01-15 14:20:12] [INFO] Iniciando modo stealth...
+[2026-03-20 14:30:22] [INFO] Exploit bem-sucedido em target_001
+[2026-03-20 14:28:15] [WARN] Firewall detectado - contornando...
+[2026-03-20 14:25:08] [INFO] Conexão estabelecida com servidor remoto
+[2026-03-20 14:23:45] [SUCCESS] Payload injetado com sucesso
+[2026-03-20 14:20:12] [INFO] Iniciando modo stealth...
 ```
 
 ### ⚡ Estatísticas de Performance
