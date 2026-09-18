@@ -1,8 +1,7 @@
 <h1 align="center">yngs_</h1>
 
-
 ```bash
-root@yangola:~$ git clone [https://github.com/yngskkj/Yangola.git](https://github.com/yngskkj/Yangola.git)
+root@yangola:~$ git clone https://github.com/yngskkj/Yangola.git
 root@yangola:~$ cd Yangola
 root@yangola:~$ ./run.sh
 [✔] Yangola iniciado com sucesso...
@@ -11,10 +10,11 @@ root@yangola:~$ ./run.sh
 [🔥] CPU: 100% - Otimizado para hacking
 [💾] RAM: 64GB - Memória quântica ativa
 [🌐] Rede: Conectado ao Matrix
+```
 
 ## 🚀 Comandos Disponíveis
 
-```
+```bash
 ./scan_network.sh     # Escanear rede por vulnerabilidades
 ./decrypt_files.py    # Descriptografar arquivos protegidos
 ./generate_payload.js # Gerar payload para exploração
@@ -25,7 +25,7 @@ root@yangola:~$ ./run.sh
 ## 📊 Status do Sistema
 
 ### 🔍 Últimos Logs do Sistema
-```
+```text
 [2026-03-20 14:30:22] [INFO] Exploit bem-sucedido em target_001
 [2026-03-20 14:28:15] [WARN] Firewall detectado - contornando...
 [2026-03-20 14:25:08] [INFO] Conexão estabelecida com servidor remoto
@@ -55,8 +55,8 @@ root@yangola:~$ ./run.sh
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yngskkj&theme=chartreuse-dark&hide_border=true" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake-dark.svg?palette=github-dark" /> </p>
 
 ## 📝 Como Personalizar
 
@@ -65,7 +65,7 @@ Para usar suas próprias imagens do GitHub Snake:
 1. **Configure o GitHub Snake** no seu perfil
 2. **Substitua os links** acima pelo seu usuário:
    ```markdown
-   https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+   https://raw.githubusercontent.com/yngskkj/yngskkj/output/github-contribution-grid-snake.svg
    ```
 3. **Para a versão dark**, adicione o parâmetro:
    ```markdown
